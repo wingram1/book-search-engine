@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^7.1.0"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
     "url": "https://github.com/wingram1/book-search-engine/issues"
   },
   "homepage": "https://github.com/wingram1/book-search-engine#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "apollo-server-express": "^3.7.0"
+  }
 }
