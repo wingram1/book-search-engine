@@ -10,7 +10,7 @@ This project is made with a MERN stack that uses GraphQL queries and mutations.
 
 Deployed Application: [https://quiet-springs-42659.herokuapp.com/](https://quiet-springs-42659.herokuapp.com/)
 
-![Screenshot](../book-search-engine/assets/screenshot.png)
+![Screenshot](./assets/screenshot.png)
 
 ## Table of Contents
 
